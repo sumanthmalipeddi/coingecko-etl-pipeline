@@ -1,0 +1,6 @@
+apache-airflow==3.1.5
+apache-airflow-providers-google
+pandas
+requests
+# Uncomment pyarrow if using Parquet output (set OUTPUT_FORMAT = "parquet" in your DAG)
+# pyarrow
