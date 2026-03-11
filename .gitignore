@@ -9,3 +9,4 @@ logs/
 output/
 .ipynb_checkpoints/
 config/
+*.log

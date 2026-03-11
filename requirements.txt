@@ -1,4 +1,4 @@
-apache-airflow==3.1.5
+apache-airflow==2.10.5
 apache-airflow-providers-google
 pandas
 requests
